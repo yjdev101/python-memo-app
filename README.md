@@ -5,9 +5,9 @@
 
 ## 파일 구조
 python-memo-app/
-├─ main.py       # 실행 파일
-├─ memo_func.py  # 기능 함수 모음
-└─ README.md
+main.py # 실행 파일
+memo_func.py # 기능 함수 모음
+README.md
 
 
 ## 기능
